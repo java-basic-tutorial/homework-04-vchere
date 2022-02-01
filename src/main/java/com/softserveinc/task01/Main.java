@@ -6,6 +6,8 @@ package com.softserveinc.task01;
 public class Main {
     public static void main(String[] args) {
         // TODO: Uncomment code bellow after the class CoffeeMachineV1 have been created
+//
+        System.out.println("hello");
 //        AbstractCoffeeMachine coffeeMachine = new CoffeeMachineV1(200, 5000, 400);
 //        coffeeMachine.on();
 //        coffeeMachine.addWater(1000);
